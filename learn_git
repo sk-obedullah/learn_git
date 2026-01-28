@@ -1,1 +1,18 @@
-Learning Git from scrach
+Learning Git from scratch
+    create a repo in remote-
+        navigate github.com
+        create a new repo
+
+    Get Started in local-
+        open cmd in project folder
+
+
+        add git config
+            git config user.name ""
+            git config user.email ""
+
+         git clone <repo url>
+        if get -SSL certificate problem: unable to get local issuer certificate
+
+            git config --global http.sslBackend schannel
+

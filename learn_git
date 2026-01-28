@@ -8,11 +8,11 @@ Learning Git from scratch
 
 
         add git config
-            git config user.name ""
-            git config user.email ""
+                git config --global user.name ""
+                git config --global user.email ""
 
-         git clone <repo url>
+        git clone <repo url>
         if get -SSL certificate problem: unable to get local issuer certificate
 
-            git config --global http.sslBackend schannel
+                 git config --global http.sslBackend schannel
 

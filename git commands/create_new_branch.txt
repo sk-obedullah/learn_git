@@ -1,0 +1,8 @@
+creating a new branch in local -
+    git checkout -b feature/how_to_create_new_branch_basics
+ pushing the new branch to repo-
+    git push -u origin feature/how_to_create_new_branch_basics
+ check current branch-
+    git branch
+ switch branch -
+    git checkout <branchname>/git switch
